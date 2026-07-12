@@ -8,7 +8,6 @@ An interactive Power BI dashboard analyzing sales distribution across time, prod
 
 *Dataset note: built on a public sales-distribution practice dataset (not proprietary company data), used here to demonstrate end-to-end dashboard design — data cleaning, modeling, DAX measures, and visual storytelling.*
 
-![Dashboard Preview](./screenshots/dashboard-overview.png)
 📂 [Dashboard file (.pbix)](./Dashboard.pbix) · [Source data (.xlsx)](./Sales-Distribution-Data-File.xlsx)
 
 ## 🧹 Data Preparation
